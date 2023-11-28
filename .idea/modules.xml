@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DigitalHouse.iml" filepath="$PROJECT_DIR$/.idea/DigitalHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkout-service/checkout-service/checkout-service.iml" filepath="$PROJECT_DIR$/checkout-service/checkout-service/checkout-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/products-service/products-service/products-service.iml" filepath="$PROJECT_DIR$/products-service/products-service/products-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkout-service/checkout-service/untitled/untitled.iml" filepath="$PROJECT_DIR$/checkout-service/checkout-service/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
